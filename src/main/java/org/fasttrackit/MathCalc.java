@@ -22,16 +22,16 @@ public class MathCalc {
 //      int d = s1.nextInt();
 //
 //      if (d == 1 ) {
-//        calc.Adding();
+//        calcInt.Adding();
 //      }
 //      if (d == 2 ) {
 //      calc.Subtract();
 //      }
 //      if (d == 3){
-//      calc.Multiply();
+//      calcInt.Multiply();
 //      }
 //      if (d == 4){
-//      calc.Divide();
+//      calcInt.Divide();
 //      }
 //      else {
 //        System.out.println("Ai facut ceva ce nu ma asteptam, m-am panicat");
